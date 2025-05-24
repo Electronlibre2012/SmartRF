@@ -35,3 +35,9 @@ SmartRF is a fork of [SmartIR](https://github.com/smartHomeHub/SmartIR), tailore
     "22": "b64:Base64Code"
   }
 }
+
+## Installation
+
+Copiez ce dépôt dans `custom_components/smartrf/` de votre configuration Home Assistant.
+
+ou ajouter le dépôt personnalisé "https://github.com/Electronlibre2012/SmartRF" dans HACS
