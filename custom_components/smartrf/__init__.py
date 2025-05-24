@@ -43,7 +43,7 @@ CONFIG_SCHEMA = vol.Schema({
 }, extra=vol.ALLOW_EXTRA)
 
 async def async_setup(hass, config):
-    """Set up the SmartIR component."""
+    """Set up the SmartRF component."""
     conf = config.get(DOMAIN)
 
     if conf is None:
