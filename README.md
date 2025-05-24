@@ -1,3 +1,8 @@
+
+
+
+![RF](https://github.com/user-attachments/assets/95b5dfa9-f58b-4ff1-9496-08268a6b96a2)
+
 # SmartRF
 
 SmartRF est une version dérivée de [SmartIR](https://github.com/smartHomeHub/SmartIR), adaptée pour les appareils RF avec une structure de fichier JSON **plate**.
