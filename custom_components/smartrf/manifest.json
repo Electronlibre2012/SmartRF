@@ -7,6 +7,7 @@
   "requirements": ["aiofiles>=0.6.0"],
   "homeassistant": "2025.5.0",
   "version": "1.0.0",
+  "icon": "custom_components/smartrf/RF.png",
   "updater": {
     "version": "1.0.0",
     "releaseNotes": "-- RF base64 Climate Only with flat json",
