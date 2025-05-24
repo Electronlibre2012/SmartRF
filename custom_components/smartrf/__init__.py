@@ -22,12 +22,12 @@ DOMAIN = 'smartir'
 VERSION = '1.18.1'
 MANIFEST_URL = (
     "https://raw.githubusercontent.com/"
-    "smartHomeHub/SmartIR/{}/"
-    "custom_components/smartir/manifest.json")
+    "Electronlibre2012/SmartRF/{}/"
+    "custom_components/smartrf/manifest.json")
 REMOTE_BASE_URL = (
     "https://raw.githubusercontent.com/"
-    "smartHomeHub/SmartIR/{}/"
-    "custom_components/smartir/")
+    "Electronlibre2012/SmartRF/{}/"
+    "custom_components/smartrf/")
 COMPONENT_ABS_DIR = os.path.dirname(
     os.path.abspath(__file__))
 
